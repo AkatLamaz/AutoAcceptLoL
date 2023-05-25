@@ -24,18 +24,3 @@ def main():
 if __name__ == '__main__':
     print("Running")
     main()
-
-#pyautogui.displayMousePosition()
-
-#def click(x,y):
-#    pyautogui.click(x,y)
-#    time.sleep(0.5)
-#time.sleep(1)
-
-# while True:
-#     time.sleep(1)
-#     if pyautogui.locateOnScreen("play_button.png"):
-#         print("jest play")
-#     else:
-#         print("nie ma play")
-        
