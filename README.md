@@ -6,7 +6,7 @@ This script helps players quickly join games by automatically accepting invites,
 Before using AutoAccept.py, make sure you have the following prerequisites installed:
 Python 3: Ensure you have Python 3 installed on your computer.
 League of Legends: You should have the League of Legends game client installed and configured on your computer.
-Third-Party Libraries: Install the required third-party libraries by running the following command:
+Third-Party Libraries.
 
 # Usage:
 To use AutoAccept.py, follow these steps:
